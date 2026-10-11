@@ -1,2 +1,2 @@
-# House_price_prediction
-House Price Prediction using Python and Machine Learning with a Random Forest Regressor to estimate house prices based on housing data.
+# House_Price_Prediction
+House Price Prediction is a machine learning project that predicts property prices based on features such as location, area, bedrooms, bathrooms, parking, and other factors. It includes data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and prediction using Python and Scikit-learn.
